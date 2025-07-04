@@ -1,0 +1,19 @@
+
+
+.topBar {
+justify-self: center;
+    width: 100em;
+    height: 25em;
+    display: flex;
+    flex-direction: row;
+    gap: 1250px;
+
+}
+
+.storeCard {
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+    column-gap: 50px;
+    margin-bottom: 20px;
+}

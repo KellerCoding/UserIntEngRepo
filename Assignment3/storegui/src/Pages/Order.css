@@ -1,0 +1,13 @@
+.topBar {
+    justify-self: center;
+    width: 100em;
+    height: 10em;
+    display: flex;
+    flex-direction: row;
+    gap: 1375px;
+
+}
+
+.oxtail {
+    width: 300px;
+}
